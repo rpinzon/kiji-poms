@@ -1,3 +1,7 @@
 *.swp
 *~
 /target
+/.settings
+/.project
+/kiji-root-pom/.settings
+/kiji-root-pom/.project
